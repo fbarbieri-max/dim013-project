@@ -47,6 +47,11 @@ The program reads the CSV file using pandas and prints the first five rows.
 
 This project demonstrates feature branches, Conventional Commits, merge conflict resolution, and GitHub collaboration.
 
+## Contributing
+
+Create a branch, make your changes, commit 
+them, and open a Pull Request for review.
+
 ## Author
 
 Francesco Barbieri
